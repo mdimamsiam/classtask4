@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Class Task 4</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="hello">Hello!</div>
+
+  
+    <img src="544857677_653305984484391_3561770374954794966_n.jpg"
+         class="circle left-img">
+
+
+    <img src="GnSVMx3WsAE4juk.jpg"
+         class="circle right-img">
+
+   
+    <div class="hi">Hi!</div>
+
+    
+    <div class="dot d1"></div>
+    <div class="dot d2"></div>
+    <div class="dot d3"></div>
+    <div class="dot d4"></div>
+
+</div>
+
+</body>
+</html>
+
